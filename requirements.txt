@@ -1,0 +1,6 @@
+black
+mypy
+scikit-learn
+Pillow
+numpy
+rich
