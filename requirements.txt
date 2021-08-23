@@ -4,3 +4,4 @@ scikit-learn
 Pillow
 numpy
 rich
+imgcat
